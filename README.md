@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Stats
 <p align="left">
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Naoto-Araki&count_private=true&show_icons=true&show_icons=true&theme=gruvbox" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Naoto-Araki&count_private=true&show_icons=true&show_icons=true&theme=gruvbox" />
 </p>
 <p>
   <img alt="github graph" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naoto-Araki&theme=gruvbox" />
