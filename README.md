@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 👨‍💻I'm working on an intership at [six1](https://six1.jp/)
 
 <p align="left">
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/Naoto-Araki">
     <img height="20" src="https://komarev.com/ghpvc/?username=Naoto-Araki" />
   </a>
 </p>
