@@ -33,3 +33,18 @@ Here are some ideas to get you started:
 <p>
   <img alt="github graph" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naoto-Araki&theme=dracula" />
 </p>
+
+## Hackathon
+### 📌 [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
+
+<img src="images/snap-note-clip.gif" width="100%">
+
+優秀賞を頂きました！
+
+- Githubレポジトリは[こちら](https://github.com/MRyutaro/SnapNoteClip)
+- 発表用スライドは[こちら](https://speakerdeck.com/ryutarom/ji-yu-camp2024-vol-dot-22-snapnoteclip)
+
+**使用した技術**
+- JavaScript
+- HTML
+- CSS
