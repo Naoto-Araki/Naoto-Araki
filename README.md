@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <img src="images/snap-note-clip.gif" width="100%">
 
-優秀賞を頂きました！
+結果は優秀賞を受賞しました
 
 - Githubレポジトリは[こちら](https://github.com/MRyutaro/SnapNoteClip)
 - 発表用スライドは[こちら](https://speakerdeck.com/ryutarom/ji-yu-camp2024-vol-dot-22-snapnoteclip)
