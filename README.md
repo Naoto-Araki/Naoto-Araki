@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## Hackathon
 ### 📌 [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
 
-<img src="images/snap-note-clip.gif" width="100%">
+<img src="images/Snap-Note-Clip.gif" width="100%">
 
 ページの指定範囲を切り取って記録し、メモ付きのノートを作成できるChrome拡張機能です。
 
