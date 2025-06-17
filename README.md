@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 👨‍🎓 I’m currently a student at Osaka University
 
-👨‍💻I'm working on an intership at [six1](https://six1.jp/)
+👨‍💻 I'm working on an intership at [six1](https://six1.jp/)
+
+😄 This is my [portfolio](https://naoto-portfolio-alpha-blue.vercel.app/)
 
 <p align="left">
   <a href="https://github.com/Naoto-Araki">
