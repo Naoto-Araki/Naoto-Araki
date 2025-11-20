@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 👨‍🎓 I’m currently a student at Osaka University
 
-👨‍💻 I'm working on an intership at [six1](https://six1.jp/)
+👨‍💻 I worked as a software engineering intern at Six1 [six1](https://six1.jp/) from October 2024 to September 2025.
 
 😄 This is my [portfolio](https://naoto-portfolio-alpha-blue.vercel.app/)
 
