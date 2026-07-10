@@ -15,6 +15,27 @@ Master's Student at Osaka University | Graduate School of Information Science an
 </p>
 
 ## Hackathon
+### 📌 [YC | RFS - Summer 2026 | AI Hackathon](https://luma.com/compiled-4qzo?tk=9RGzOV)（2026年7月）
+<table>
+  <tr>
+    <td width="50%">
+      <img src="images/company-brain-demo.gif" width="100%">
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h3>Company Brainテーマでの開発</h3>
+      <p>業務説明や操作ログをもとに、社内知識と照合しながら業務ワークフローを生成するプロトタイプ</p>
+      <ul>
+        <li>YC RFSテーマAIハッカソンに参加</li>
+        <li>Chrome拡張機能で会議中の発話・クリック・画面情報を取得</li>
+        <li>GeminiとGBrainを用いて曖昧な業務知識を補完</li>
+      </ul>
+      <p><a href="https://github.com/arakink/company-brain-yc-hackathon">GitHubリポジトリ</a></p>
+      <p><a href="https://company-brain-yc-hackathon.vercel.app/">デモサイト</a></p>
+      <p><a href="https://company-brain-yc-hackathon.vercel.app/youtube">デモ動画</a></p>
+    </td>
+  </tr>
+</table>
+
 ### 📌 [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
 <table>
   <tr>
