@@ -10,7 +10,7 @@ Master's Student at Osaka University | Graduate School of Information Science an
     <img src="https://komarev.com/ghpvc/?username=Naoto-Araki" alt="Page Views" />
   </a>
   <a href="https://qiita.com/arakink">
-    <img src="https://img.shields.io/badge/Qiita-55c500?style=flat&logo=qiita&logoColor=white" alt="Qiita" />
+    <img src="https://img.shields.io/badge/Qiita-arakink-green?logo=qiita&style=flat-square" />
   </a>
 </p>
 
