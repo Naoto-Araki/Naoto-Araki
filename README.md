@@ -14,6 +14,10 @@ Master's Student at Osaka University | Graduate School of Information Science an
   </a>
 </p>
 
+<div align="center">
+    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=arakink&theme=tokyo-night&hide_border=true&radius=16">
+</div>
+
 ## Hackathon
 ### 📌 [YC | RFS - Summer 2026 | AI Hackathon](https://luma.com/compiled-4qzo?tk=9RGzOV)（2026年7月）
 <table>
