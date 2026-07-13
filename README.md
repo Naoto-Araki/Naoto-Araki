@@ -15,7 +15,7 @@ Master's Student at Osaka University | Graduate School of Information Science an
 </p>
 
 <div align="center">
-    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=arakink&theme=tokyo-night&hide_border=true&radius=16">
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=arakink&theme=tokyo-night&hide_border=true&radius=16">
 </div>
 
 ## Hackathon
