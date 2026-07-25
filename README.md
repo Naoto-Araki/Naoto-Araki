@@ -1,9 +1,10 @@
 ## Hi there 👋
 Master's Student at Osaka University | Graduate School of Information Science and Technology
 
-### Career & Projects
-* **Software Engineering Intern** at [six1](https://six1.jp/) (Oct 2024 - Sep 2025)
-* **Explore my work**: [portfolio](https://naoto-portfolio-alpha-blue.vercel.app/)
+### Career
+* **Software Engineering Intern** at [six1](https://six1.jp/) (Oct 2024 – Sep 2025), Fully remote
+* **Software Engineering Intern** at [GMO Internet Group, Inc.](https://group.gmo/) (Aug 2025 – Sep 2025), On-site in Osaka, Japan
+* **Software Engineering Intern** at [Asahi Broadcasting Group Holdings Corporation](https://corp.asahi.co.jp/ja/) (Aug 2025 – Sep 2025), On-site in Osaka, Japan
 
 <p align="left">
   <a href="https://github.com/arakink">
