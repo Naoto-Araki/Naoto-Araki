@@ -6,7 +6,7 @@ Master's Student at Osaka University | Graduate School of Information Science an
 * **Software Engineering Intern** at [GMO Internet Group, Inc.](https://group.gmo/) (Aug 2025 – Sep 2025), On-site in Osaka, Japan
 * **Software Engineering Intern** at [Asahi Broadcasting Group Holdings Corporation](https://corp.asahi.co.jp/ja/) (Aug 2025 – Sep 2025), On-site in Osaka, Japan
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/arakink">
     <img src="https://komarev.com/ghpvc/?username=Naoto-Araki" alt="Page Views" />
   </a>
