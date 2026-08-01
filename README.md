@@ -45,7 +45,7 @@ Master's Student at Osaka University | Graduate School of Information Science an
         <br>
         <a href="https://company-brain-yc-hackathon.vercel.app/youtube">デモ動画</a>
         ・
-        <a href="https://qiita.com/arakink/items/b72d5cc7eb4d694fc12f29fbe92364c73">Qiita記事</a>
+        <a href="https://qiita.com/arakink/items/b72d5cc7eb4d694fc12f">Qiita記事</a>
       </p>
     </td>
   </tr>
