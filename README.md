@@ -20,7 +20,7 @@ Master's Student at Osaka University | Graduate School of Information Science an
 </div>
 
 <div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D contribution graph" />
+  <img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="GitHub 3D contribution graph" />
 </div>
 
 ## Hackathon
