@@ -16,10 +16,6 @@ Master's Student at Osaka University | Graduate School of Information Science an
 </p>
 
 <div align="center">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arakink&theme=tokyonight" alt="mystreak"/>
-</div>
-
-<div align="center">
   <img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="GitHub 3D contribution graph" />
 </div>
 
